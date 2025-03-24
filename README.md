@@ -3,6 +3,18 @@ This project explores the analysis of cryptocurrency scams using a publicly avai
 
 You can see the analysis of kaggle at https://www.kaggle.com/code/saraabreuhernandez/an-lisis-de-estafas-de-criptomonedas
 
+For this analysis, the primary programming language used was Python. Python is widely used for data analysis due to its extensive libraries and tools for data manipulation, visualization, and statistical analysis. Specifically, the following libraries were used:
+
+Pandas – For data manipulation and handling datasets (e.g., loading CSV files, cleaning data, and performing analysis).
+
+Matplotlib and Seaborn – For data visualization, including creating bar charts, histograms, and network graphs.
+
+Numpy – For handling arrays and mathematical functions.
+
+Urllib.parse – For extracting domains from URLs.
+
+NetworkX – For creating network graphs to analyze connections between scammers.
+
 Motivation: Cryptocurrencies, while offering investment and development opportunities, are also fertile ground for fraudsters. This project was born out of my interest in better understanding how these frauds are perpetrated and how victims are lured. By analyzing these types of frauds, one can contribute to a safer digital environment and help raise awareness of the risks associated with cryptocurrencies.
 
 # Cryptocurrency Scam Analysis Procedure
